@@ -66,10 +66,33 @@ docker compose up --build
 ## Default Administrator Account
 
 The system automatically seeds an administrator account on first startup:
-- **Email:** `admin@ojt.com`
-- **Password:** `Admin@123456`
+- **Email:** `admin@example.com`
+- **Password:** `admin123`
 - **Role:** `ADMIN`
 
+Test account
+- **Email:** `cafa7766@gmail.com`
+- **Password:** `abc123`
+- **Role:** `OWNER`
+
+- **Email:** `test1@example.com`
+- **Password:** `123456`
+- **Role:** `USER`
+- **Email:** `test2@example.com`
+- **Password:** `123456`
+- **Role:** `USER`
+- - **Email:** `test3@example.com`
+- **Password:** `123456`
+- **Role:** `USER`
+- **Email:** `test4@example.com`
+- **Password:** `123456`
+- **Role:** `USER`
+- **Email:** `test5@example.com`
+- **Password:** `123456`
+- **Role:** `USER`
+- **Email:** `test6@example.com`
+- **Password:** `123456`
+- **Role:** `USER`
 ---
 
 ## Features
