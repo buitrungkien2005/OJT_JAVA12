@@ -3,7 +3,7 @@
 A complete team project knowledge base system for uploading, browsing, searching, and managing project documents, images, and videos with role-based access control.
 
 ## Tech Stack
-- **Backend:** Java 21, Spring Boot 3.3.4, Maven, Spring Web MVC, Spring Data JPA, Spring Security + JWT, Bean Validation, Lombok, springdoc-openapi (Swagger UI)
+- **Backend:** Java 17, Spring Boot 3.3.4, Maven, Spring Web MVC, Spring Data JPA, Spring Security + JWT, Bean Validation, Lombok, springdoc-openapi (Swagger UI)
 - **Frontend:** React 19, TypeScript, Vite, Tailwind CSS, React Router 7, Axios, react-dropzone
 - **Database & Storage:** PostgreSQL 16, Local Disk Storage (`./uploads`) with zero MinIO requirement, plus optional MinIO support (`STORAGE_TYPE=minio`)
 - **DevOps:** Docker, Docker Compose, Multi-stage builds, Nginx
