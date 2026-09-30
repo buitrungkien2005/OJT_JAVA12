@@ -58,7 +58,7 @@ docker compose up --build
 
 ### URLs
 - **Frontend Application:** [http://localhost:3000](http://localhost:3000)
-- **Backend API & Swagger UI:** [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+- **Backend API & Swagger UI:** [http://localhost:8088/swagger-ui.html](http://localhost:8088/swagger-ui.html)
 - **MinIO Console:** [http://localhost:9001](http://localhost:9001) (`minioadmin` / `minioadmin`)
 
 ---
